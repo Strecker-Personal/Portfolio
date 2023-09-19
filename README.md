@@ -8,8 +8,22 @@ Writing samples from Epsilon include:
 - [Agility Loyalty Program Management Guide](Epsilon_Harmony_Sample(1).pdf)
 
 ## Mastercard
-Matercard writing samples include:
+Mastercard writing samples include:
 - [Mastercard Track Business Payment Service December 2021 Release Notes](https://drive.google.com/file/d/1leIaEw2d8kPSLeFDDRsMmmZm2V4IxKMX/view?usp=drive_link)
 - [Mastercard Track Business Payment Service Product Guide](https://drive.google.com/file/d/1J4TzxCFPlovBMWI6GNmbzGNJJ4jKyb7c/view?usp=drive_link)
 - [Mastercard Track Business Payment Service Internal Quick Start Guide](https://drive.google.com/file/d/18YPcAAbP-WgFmJOtxpB0v5wLuwhbA9o6/view?usp=drive_link)
 - [Mastercard Track Business Payment Service Internal Onboarding and Registration Guide](https://drive.google.com/file/d/1WUhObpleiAvdGjGr3rkJ5n7GUimstYzQ/view?usp=drive_link)
+
+## DraftKings
+- [Quick Deposit Integration Guide](https://drive.google.com/file/d/1Wc_rI_M2pHkvQNHGKdWNbbLQOFDGYQKk/view?usp=drive_link)
+- [Legal Prioritization Process](https://drive.google.com/file/d/1ORSnR0mXlJ5QljuQw3P_nsVpk6u3Ckr2/view?usp=drive_link)
+- [Campaign Tool User Documentation](https://drive.google.com/file/d/133PMLxrY7iZ1lNaOFifLjtXVd7Q3yZKd/view?usp=drive_link)
+- [Manage Basic Promotions](https://drive.google.com/file/d/1BpO-5ltNFwqTpmLnW7S3pLmU41gw-aF1/view?usp=drive_link)
+
+Document|Type|Description
+---|---|
+[Quick Deposit Integration Guide](https://drive.google.com/file/d/1Wc_rI_M2pHkvQNHGKdWNbbLQOFDGYQKk/view?usp=drive_link)|Confluence page|Provides an overview of the Quick Deposit v2 integration process. This page is intended for
+vertical-based teams looking to understand and integrate the new Quick Deposit component into their product elements.
+[Legal Prioritization Process](https://drive.google.com/file/d/1ORSnR0mXlJ5QljuQw3P_nsVpk6u3Ckr2/view?usp=drive_link)|Intranet page|Provides an overview of the legal prioritizaiton process that uses a priority score to rank each ticket.
+[Campaign Tool User Documentation](https://drive.google.com/file/d/133PMLxrY7iZ1lNaOFifLjtXVd7Q3yZKd/view?usp=drive_link)|Confluence page|Provides detailed information on using the DraftKing campaign tool app.
+[Manage Basic Promotions](https://drive.google.com/file/d/1BpO-5ltNFwqTpmLnW7S3pLmU41gw-aF1/view?usp=drive_link)|Confluence page|Provdes detailed information on creating, editing, cloning, and archiving a basic promotion.
