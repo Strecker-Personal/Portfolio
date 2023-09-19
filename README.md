@@ -20,15 +20,6 @@ Mastercard writing samples include:
 - [Campaign Tool User Documentation](https://drive.google.com/file/d/133PMLxrY7iZ1lNaOFifLjtXVd7Q3yZKd/view?usp=drive_link)
 - [Manage Basic Promotions](https://drive.google.com/file/d/1BpO-5ltNFwqTpmLnW7S3pLmU41gw-aF1/view?usp=drive_link)
 
-Document|Type|Description
----|---|
-[Quick Deposit Integration Guide](https://drive.google.com/file/d/1Wc_rI_M2pHkvQNHGKdWNbbLQOFDGYQKk/view?usp=drive_link)|Confluence page|Provides an overview of the Quick Deposit v2 integration process. This page is intended for
-vertical-based teams looking to understand and integrate the new Quick Deposit component into their product elements.
-[Legal Prioritization Process](https://drive.google.com/file/d/1ORSnR0mXlJ5QljuQw3P_nsVpk6u3Ckr2/view?usp=drive_link)|Intranet page|Provides an overview of the legal prioritizaiton process that uses a priority score to rank each ticket.
-[Campaign Tool User Documentation](https://drive.google.com/file/d/133PMLxrY7iZ1lNaOFifLjtXVd7Q3yZKd/view?usp=drive_link)|Confluence page|Provides detailed information on using the DraftKing campaign tool app.
-[Manage Basic Promotions](https://drive.google.com/file/d/1BpO-5ltNFwqTpmLnW7S3pLmU41gw-aF1/view?usp=drive_link)|Confluence page|Provdes detailed information on creating, editing, cloning, and archiving a basic promotion.
-
-
 
 | Document                                                                                                                  | Type            | Description                                                                                                                                                                                                       |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
