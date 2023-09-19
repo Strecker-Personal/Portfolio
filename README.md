@@ -9,7 +9,7 @@ Writing samples from Epsilon include:
 
 ## Mastercard
 Matercard writing samples include:
-- [December 2021 Release Notes Mastercard Track Business Payment Service(https://drive.google.com/file/d/1leIaEw2d8kPSLeFDDRsMmmZm2V4IxKMX/view?usp=drive_link)
+- [Mastercard Track Business Payment Service December 2021 Release Notes](https://drive.google.com/file/d/1leIaEw2d8kPSLeFDDRsMmmZm2V4IxKMX/view?usp=drive_link)
 - [Mastercard Track Business Payment Service Product Guide](https://drive.google.com/file/d/1J4TzxCFPlovBMWI6GNmbzGNJJ4jKyb7c/view?usp=drive_link)
 - [Mastercard Track Business Payment Service Internal Quick Start Guide](https://drive.google.com/file/d/18YPcAAbP-WgFmJOtxpB0v5wLuwhbA9o6/view?usp=drive_link)
 - [Mastercard Track Business Payment Service Internal Onboarding and Registration Guide](https://drive.google.com/file/d/1WUhObpleiAvdGjGr3rkJ5n7GUimstYzQ/view?usp=drive_link)
