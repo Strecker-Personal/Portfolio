@@ -10,7 +10,6 @@ Epsilon writing samples include:
 | [Epsilon Harmony Conductor QSR](https://drive.google.com/file/d/1lE85G7AlADmfVj4scFF-LwcPbqfScx8t/view?usp=drive_link) | PDF |Provides detailed information and procedures for creating and managing Harmony Conductor campaigns. |
 | [Agility Loyalty Program Management Guide](Epsilon_Harmony_Sample(1).pdf) | Wiki page | Provides detailed instructions for managing the Agility Loyalty Program. |
 | [Epsilon Documentation Department Style Guide](https://drive.google.com/file/d/1FeMPjL1z-oiTpEq8nv1HK_nToAff6kEn/view?usp=drive_link) | PDF | A reference tool to be used to ensure technical information is presented in a standard communication style. | 
-- 
 
 ## Mastercard
 Mastercard writing samples include:
@@ -20,11 +19,7 @@ Mastercard writing samples include:
 - [Mastercard Track Business Payment Service Internal Onboarding and Registration Guide](https://drive.google.com/file/d/1WUhObpleiAvdGjGr3rkJ5n7GUimstYzQ/view?usp=drive_link)
 
 ## DraftKings
-- [Quick Deposit Integration Guide](https://drive.google.com/file/d/1Wc_rI_M2pHkvQNHGKdWNbbLQOFDGYQKk/view?usp=drive_link)
-- [Legal Prioritization Process](https://drive.google.com/file/d/1ORSnR0mXlJ5QljuQw3P_nsVpk6u3Ckr2/view?usp=drive_link)
-- [Campaign Tool User Documentation](https://drive.google.com/file/d/133PMLxrY7iZ1lNaOFifLjtXVd7Q3yZKd/view?usp=drive_link)
-- [Manage Basic Promotions](https://drive.google.com/file/d/1BpO-5ltNFwqTpmLnW7S3pLmU41gw-aF1/view?usp=drive_link)
-
+DraftKings writing samples include:
 
 | Document                                                                                                                  | Type            | Description                                                                                                                                                                                                       |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
