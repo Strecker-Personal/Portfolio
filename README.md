@@ -24,8 +24,8 @@ Mastercard writing samples include:
 ## DraftKings
 DraftKings writing samples include:
 
-| &numsp; &numsp; &numsp; &numsp; Document &numsp; &numsp; &numsp; &numsp; | Type | Description                                                                                                                                                                              
-|-------------------------------------------------------------------------------|-----------------|--------------------------------------------------------------------------------------------------|
+| Document | Type | Description                                                                                                                                                                              
+|---------------|----------------------|----------------------|
 | [Quick Deposit Integration Guide](https://drive.google.com/file/d/1Wc_rI_M2pHkvQNHGKdWNbbLQOFDGYQKk/view?usp=drive_link)                       | Confluence page | Provides an overview of the Quick Deposit v2 integration process. This page is intended for vertical-based teams looking to understand and integrate the new Quick Deposit component into their product elements. |
 | [Legal Prioritization Process](https://drive.google.com/file/d/1ORSnR0mXlJ5QljuQw3P_nsVpk6u3Ckr2/view?usp=drive_link)     | Intranet page   | Provides an overview of the legal prioritization process that uses a priority score to rank each ticket.                                                                                                          |
 | [Campaign Tool User Documentation](https://drive.google.com/file/d/133PMLxrY7iZ1lNaOFifLjtXVd7Q3yZKd/view?usp=drive_link) | Confluence page | Provides detailed information on using the DraftKing campaign tool app.                                                                                                                                           |
