@@ -12,6 +12,7 @@ Epsilon writing samples include:
 | [Epsilon Documentation Department Style Guide](https://drive.google.com/file/d/1FeMPjL1z-oiTpEq8nv1HK_nToAff6kEn/view?usp=drive_link) | PDF | A reference tool to be used to ensure technical information is presented in a standard communication style. | 
 
 | Document | Description |
+|---------------|----------------------|
 | [Mastercard Track Business Payment Service Product Guide](https://drive.google.com/file/d/1J4TzxCFPlovBMWI6GNmbzGNJJ4jKyb7c/view?usp=drive_link) | Provides an overview and detailed produces for integrating DREAMmail 5.1 with Omniture SiteCatalyst.
 Written in Microsoft Word and published as a PDF.|
 
