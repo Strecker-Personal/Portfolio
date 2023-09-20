@@ -13,8 +13,7 @@ Epsilon writing samples include:
 
 | Document | Description |
 |---------------|----------------------|
-| [Mastercard Track Business Payment Service Product Guide](https://drive.google.com/file/d/1J4TzxCFPlovBMWI6GNmbzGNJJ4jKyb7c/view?usp=drive_link) | Provides an overview and detailed produces for integrating DREAMmail 5.1 with Omniture SiteCatalyst.
-Written in Microsoft Word and published as a PDF.|
+| [Mastercard Track Business Payment Service Product Guide](https://drive.google.com/file/d/1J4TzxCFPlovBMWI6GNmbzGNJJ4jKyb7c/view?usp=drive_link) | Provides an overview and detailed produces for integrating DREAMmail 5.1 with Omniture SiteCatalyst. Written in Microsoft Word and published as a PDF.|
 
 ## Mastercard
 Mastercard writing samples include:
