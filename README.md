@@ -4,7 +4,7 @@ This page provides Strecker's writing samples.
 ## Epsilon
 Epsilon writing samples include:
 
-| Document &nbsp; &nbsp; &nbsp; | Type &nbsp; &nbsp; &nbsp; | Description |
+| Document &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Type &nbsp; &nbsp; &nbsp; | Description |
 |---------------|----------------------|----------------------|
 | [DREAMmail 5.1 Omniture Integration Technical Guide](https://drive.google.com/file/d/1rOoGg9Y8iw18kJnkE9lIr3HX2ue8ltIV/view?usp=drive_link)| PDF | Provides an overview and detailed procedures for integrating DREAMmail 5.1 with Omniture SiteCatalyst. |
 | [Epsilon Harmony Conductor QSR](https://drive.google.com/file/d/1lE85G7AlADmfVj4scFF-LwcPbqfScx8t/view?usp=drive_link) | PDF |Provides detailed information and procedures for creating and managing Harmony Conductor campaigns. |
