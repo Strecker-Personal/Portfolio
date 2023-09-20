@@ -14,7 +14,7 @@ Epsilon writing samples include:
 ## Mastercard
 Mastercard writing samples include:
 
-|&numsp; &numsp; &numsp; &numsp; &numsp; &numsp;&numsp; &numsp; &numsp; &numsp; &numsp; Document &numsp; &numsp; &numsp; &numsp; &numsp; &numsp; &numsp; &numsp; &numsp; &numsp;| Type | Description |
+|&numsp; &numsp; &numsp; &numsp; &numsp; &numsp; &numsp; &numsp; &numsp; &numsp;&numsp; &numsp; &numsp; &numsp; &numsp; Document &numsp; &numsp; &numsp; &numsp; &numsp; &numsp; &numsp; &numsp; &numsp; &numsp; &numsp; &numsp; &numsp; &numsp;| Type | Description |
 |-----------------|---------------------|---------------------------|
 |[Mastercard Track Business Payment Service December 2021 Release Notes](https://drive.google.com/file/d/1leIaEw2d8kPSLeFDDRsMmmZm2V4IxKMX/view?usp=drive_link) | PDF | Provides a set of announcements identifying effective date details, customer benefits, and version history. |
 |[Mastercard Track Business Payment Service Product Guide](https://drive.google.com/file/d/1J4TzxCFPlovBMWI6GNmbzGNJJ4jKyb7c/view?usp=drive_link) | PDF | Provides information about Mastercard Track Business Payment Service, including roles and responsibilities implementation, search and linking, and buyer and supplier registration. |
