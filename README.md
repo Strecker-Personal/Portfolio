@@ -11,10 +11,6 @@ Epsilon writing samples include:
 | [Agility Loyalty Program Management Guide](Epsilon_Harmony_Sample(1).pdf) | Wiki | Provides detailed instructions for managing the Agility Loyalty Program. |
 | [Epsilon Documentation Department Style Guide](https://drive.google.com/file/d/1FeMPjL1z-oiTpEq8nv1HK_nToAff6kEn/view?usp=drive_link) | PDF | A reference tool to be used to ensure technical information is presented in a standard communication style. | 
 
-| Document | Description |
-|----------------|--------------------------|
-|[Mastercard Track Business Payment Service Product Guide](https://drive.google.com/file/d/1J4TzxCFPlovBMWI6GNmbzGNJJ4jKyb7c/view?usp=drive_link) | Provides an overview and detailed procedures for integrating DREAMmail 5.1 with Omniture SiteCatalyst. **Delivery Type**: PDF. |
-
 ## Mastercard
 Mastercard writing samples include:
 
@@ -24,10 +20,6 @@ Mastercard writing samples include:
 |[Mastercard Track Business Payment Service Product Guide](https://drive.google.com/file/d/1J4TzxCFPlovBMWI6GNmbzGNJJ4jKyb7c/view?usp=drive_link) | PDF | Provides information about Mastercard Track Business Payment Service, including roles and responsibilities implementation, search and linking, and buyer and supplier registration. |
 | [Mastercard Track Business Payment Service Internal Quick Start Guide](https://drive.google.com/file/d/18YPcAAbP-WgFmJOtxpB0v5wLuwhbA9o6/view?usp=drive_link) | PDF | Provides an overview of the Business Payment Service (BPS), detailed BPS buyer and supplier registration process, and the BPS quick start process.|
 | [Mastercard Track Business Payment Service Internal Onboarding and Registration Guide](https://drive.google.com/file/d/1WUhObpleiAvdGjGr3rkJ5n7GUimstYzQ/view?usp=drive_link) | PDF | Provides an overview of onboarding with BPS, a detailed onboarding with the BPS workflow, agent types, agent definitions, procedures for registering buyers, suppliers, and supplier payment preferences. |
-
-| Document | Description |
-|----------------|--------------------------|
-|[Mastercard Track Business Payment Service Internal Onboarding Guide](https://drive.google.com/file/d/1WUhObpleiAvdGjGr3rkJ5n7GUimstYzQ/view?usp=drive_link) | Provides an overview and detailed procedures for integrating DREAMmail 5.1 with Omniture SiteCatalyst. This guide is intendend for all users and should be most useful for jfdkslj;af fjdkajfd fjkajjjf;ajdf  jfdkafjdkaj;fjda;jfdj ajfdkaj;fjdka;jfjdk **Delivery Type**: PDF. |
 
 ## DraftKings
 DraftKings writing samples include:
