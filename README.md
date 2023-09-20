@@ -8,11 +8,22 @@ Epsilon writing samples include:
 |---------------|----------------------|----------------------|
 | [DREAMmail 5.1 Omniture Integration Technical Guide](https://drive.google.com/file/d/1rOoGg9Y8iw18kJnkE9lIr3HX2ue8ltIV/view?usp=drive_link) | PDF | Provides an overview and detailed procedures for integrating DREAMmail 5.1 with Omniture SiteCatalyst. |
 | [Epsilon Harmony Conductor QSR](https://drive.google.com/file/d/1lE85G7AlADmfVj4scFF-LwcPbqfScx8t/view?usp=drive_link) | PDF |Provides detailed information and procedures for creating and managing Harmony Conductor campaigns. |
-| [Agility Loyalty Program Management Guide](Epsilon_Harmony_Sample(1).pdf) | Wiki page &nbsp; | Provides detailed instructions for managing the Agility Loyalty Program. |
+| [Agility Loyalty Program Management Guide](Epsilon_Harmony_Sample(1).pdf) | Wiki | Provides detailed instructions for managing the Agility Loyalty Program. |
 | [Epsilon Documentation Department Style Guide](https://drive.google.com/file/d/1FeMPjL1z-oiTpEq8nv1HK_nToAff6kEn/view?usp=drive_link) | PDF | A reference tool to be used to ensure technical information is presented in a standard communication style. | 
 
 ## Mastercard
 Mastercard writing samples include:
+
+| Document | Type | Description |
+|-----------------|---------------------|---------------------------|
+|[Mastercard Track Business Payment Service December 2021 Release Notes](https://drive.google.com/file/d/1leIaEw2d8kPSLeFDDRsMmmZm2V4IxKMX/view?usp=drive_link) | PDF | Provides a set of announcements identifying effective date details, customer benefits, and version history. |
+|[Mastercard Track Business Payment Service Product Guide](https://drive.google.com/file/d/1J4TzxCFPlovBMWI6GNmbzGNJJ4jKyb7c/view?usp=drive_link) | PDF | Provides information about Mastercard Track Business Payment Service, including:
+- Roles and responsibilities
+- Implementation
+- Search and Linking
+- Buyer and Supplier registration |
+- 
+
 - [Mastercard Track Business Payment Service December 2021 Release Notes](https://drive.google.com/file/d/1leIaEw2d8kPSLeFDDRsMmmZm2V4IxKMX/view?usp=drive_link)
 - [Mastercard Track Business Payment Service Product Guide](https://drive.google.com/file/d/1J4TzxCFPlovBMWI6GNmbzGNJJ4jKyb7c/view?usp=drive_link)
 - [Mastercard Track Business Payment Service Internal Quick Start Guide](https://drive.google.com/file/d/18YPcAAbP-WgFmJOtxpB0v5wLuwhbA9o6/view?usp=drive_link)
