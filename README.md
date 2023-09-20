@@ -6,7 +6,7 @@ Epsilon writing samples include:
 
 | Document | Type | Description |
 |---------------|----------------------|----------------------|
-| [DREAMmail 5.1 Omniture Integration Technical Guide](https://drive.google.com/file/d/1rOoGg9Y8iw18kJnkE9lIr3HX2ue8ltIV/view?usp=drive_link)| PDF | Provides an overview and detailed procedures for integrating DREAMmail 5.1 with Omniture. |
+| [DREAMmail 5.1 Omniture Integration Technical Guide](https://drive.google.com/file/d/1rOoGg9Y8iw18kJnkE9lIr3HX2ue8ltIV/view?usp=drive_link)| PDF | Provides an overview and detailed procedures for integrating DREAMmail 5.1 with Omniture SiteCatalyst. |
 | [Epsilon Harmony Conductor QSR](https://drive.google.com/file/d/1lE85G7AlADmfVj4scFF-LwcPbqfScx8t/view?usp=drive_link) | fdadfafd |fdadfsafdsffafaf |
 | [Agility Loyalty Program Management Guide](Epsilon_Harmony_Sample(1).pdf) | fjdksljfdk | fjdkajdfkla; |
 - 
