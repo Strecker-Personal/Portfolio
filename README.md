@@ -11,6 +11,10 @@ Epsilon writing samples include:
 | [Agility Loyalty Program Management Guide](Epsilon_Harmony_Sample(1).pdf) | Wiki | Provides detailed instructions for managing the Agility Loyalty Program. |
 | [Epsilon Documentation Department Style Guide](https://drive.google.com/file/d/1FeMPjL1z-oiTpEq8nv1HK_nToAff6kEn/view?usp=drive_link) | PDF | A reference tool to be used to ensure technical information is presented in a standard communication style. | 
 
+| Document | Description |
+| [Mastercard Track Business Payment Service Product Guide](https://drive.google.com/file/d/1J4TzxCFPlovBMWI6GNmbzGNJJ4jKyb7c/view?usp=drive_link) | Provides an overview and detailed produces for integrating DREAMmail 5.1 with Omniture SiteCatalyst.
+Written in Microsoft Word and published as a PDF.|
+
 ## Mastercard
 Mastercard writing samples include:
 
@@ -30,4 +34,5 @@ DraftKings writing samples include:
 | [Legal Prioritization Process](https://drive.google.com/file/d/1ORSnR0mXlJ5QljuQw3P_nsVpk6u3Ckr2/view?usp=drive_link) | Intranet page | Provides an overview of the legal prioritization process that uses a priority score to rank each ticket. |
 | [Campaign Tool User Documentation](https://drive.google.com/file/d/133PMLxrY7iZ1lNaOFifLjtXVd7Q3yZKd/view?usp=drive_link) | Confluence page | Provides detailed information on using the DraftKing campaign tool app. |
 | [Manage Basic Promotions](https://drive.google.com/file/d/1BpO-5ltNFwqTpmLnW7S3pLmU41gw-aF1/view?usp=drive_link) | Confluence page | Provides detailed information on creating, editing, cloning, and archiving a basic promotion. |
+
 
