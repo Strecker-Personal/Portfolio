@@ -4,6 +4,20 @@ This page provides Strecker's writing samples.
 ## Epsilon
 Epsilon writing samples include:
 
+<table style="table-layout: fixed; width: 100%;">
+<tr>
+  <td style="width:25%;">Document Title</td>
+  <td style="width:25%;">Delivery Method</td>
+  <td style="width:25%;">Description</td>
+  <td style="width:25%;">Another Cell</td>
+     </tr>
+     <tr>
+       <td>[DREAMmail 5.1 Omniture Integration Technical Guide](https://drive.google.com/file/d/1rOoGg9Y8iw18kJnkE9lIr3HX2ue8ltIV/view?usp=drive_link)</td>
+       <td>PDF</td>
+       <td>Provides an overview and detailed procedures for integrating DREAMmail 5.1 with Omniture SiteCatalyst.</td>
+       <td>fjdka;jfdka;fjdka;jdfk;ajfkd;ajfk;ajk;fjd;akjf;d</td>
+     </tr>
+
 | Document | Type | Description |
 |---------------|----------------------|----------------------|
 | [DREAMmail 5.1 Omniture Integration Technical Guide](https://drive.google.com/file/d/1rOoGg9Y8iw18kJnkE9lIr3HX2ue8ltIV/view?usp=drive_link) | PDF | Provides an overview and detailed procedures for integrating DREAMmail 5.1 with Omniture SiteCatalyst. |
