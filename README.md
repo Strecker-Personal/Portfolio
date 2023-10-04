@@ -6,9 +6,9 @@ Epsilon writing samples include:
 
 <table style="table-layout: fixed; width: 100%;">
 <tr>
-  <td style="width:33%;">Document Title</td>
-  <td style="width:33%;">Delivery Method</td>
-  <td style="width:33%;">Description</td>
+  <td style="width:33.3%;">Document Title</td>
+  <td style="width:33.3%;">Delivery Method</td>
+  <td style="width:33.3%;">Description</td>
   
      </tr>
      <tr>
