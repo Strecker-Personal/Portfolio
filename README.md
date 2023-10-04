@@ -8,8 +8,6 @@ Epsilon writing samples include:
 - [Agility Loyalty Program Management Guide](Epsilon_Harmony_Sample(1).pdf) &#8212; Provides detailed instructions for managing the Agility Loyalty Program. Content delivered as a wiki page.
 - [Epsilon Documentation Department Style Guide](https://drive.google.com/file/d/1FeMPjL1z-oiTpEq8nv1HK_nToAff6kEn/view?usp=drive_link) &#8212; A reference tool to be used to ensure technical information is presented in a standard communication style. Content generated as a PDF and uploaded to a wiki page.
 
----
-
 ## Mastercard
 Mastercard writing samples include:
 
