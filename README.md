@@ -9,7 +9,6 @@ Epsilon writing samples include:
   <td style="width:33.3%;">Document Title</td>
   <td style="width:33.3%;">Delivery Method</td>
   <td style="width:33.3%;">Description</td>
-  
      </tr>
      <tr>
        <td>[DREAMmail 5.1 Omniture Integration Technical Guide](https://drive.google.com/file/d/1rOoGg9Y8iw18kJnkE9lIr3HX2ue8ltIV/view?usp=drive_link)</td>
