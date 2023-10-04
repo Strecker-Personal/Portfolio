@@ -10,10 +10,10 @@ Epsilon writing samples include:
 
 ## Mastercard
 Mastercard writing samples include:
-- [Mastercard Track Business Payment Service December 2021 Release Notes](https://drive.google.com/file/d/1leIaEw2d8kPSLeFDDRsMmmZm2V4IxKMX/view?usp=drive_link) &#8212; Provides a set of announcements identifying effective date details, customer benefits, and version history. |
-|[Mastercard Track Business Payment Service Product Guide](https://drive.google.com/file/d/1J4TzxCFPlovBMWI6GNmbzGNJJ4jKyb7c/view?usp=drive_link) | PDF | Provides information about Mastercard Track Business Payment Service, including roles and responsibilities implementation, search and linking, and buyer and supplier registration. |
-| [Mastercard Track Business Payment Service Internal Quick Start Guide](https://drive.google.com/file/d/18YPcAAbP-WgFmJOtxpB0v5wLuwhbA9o6/view?usp=drive_link) | PDF | Provides an overview of the Business Payment Service (BPS), detailed BPS buyer and supplier registration process, and the BPS quick start process.|
-| [Mastercard Track Business Payment Service Internal Onboarding and Registration Guide](https://drive.google.com/file/d/1WUhObpleiAvdGjGr3rkJ5n7GUimstYzQ/view?usp=drive_link) | PDF | Provides an overview of onboarding with BPS, a detailed onboarding with the BPS workflow, agent types, agent definitions, procedures for registering buyers, suppliers, and supplier payment preferences. |
+- [Mastercard Track Business Payment Service December 2021 Release Notes](https://drive.google.com/file/d/1leIaEw2d8kPSLeFDDRsMmmZm2V4IxKMX/view?usp=drive_link) &#8212; Provides a set of announcements identifying effective date details, customer benefits, and version history. Content generated as a PDF and uploaded to a wiki page.
+- [Mastercard Track Business Payment Service Product Guide](https://drive.google.com/file/d/1J4TzxCFPlovBMWI6GNmbzGNJJ4jKyb7c/view?usp=drive_link) &#8212; Provides information about Mastercard Track Business Payment Service, including roles and responsibilities implementation, search and linking, and buyer and supplier registration. |
+- [Mastercard Track Business Payment Service Internal Quick Start Guide](https://drive.google.com/file/d/18YPcAAbP-WgFmJOtxpB0v5wLuwhbA9o6/view?usp=drive_link) &#8212; Provides an overview of the Business Payment Service (BPS), detailed BPS buyer and supplier registration process, and the BPS quick start process. Content generated as a PDF and uploaded to a wiki page.
+| [Mastercard Track Business Payment Service Internal Onboarding and Registration Guide](https://drive.google.com/file/d/1WUhObpleiAvdGjGr3rkJ5n7GUimstYzQ/view?usp=drive_link) &#8212; Provides an overview of onboarding with BPS, a detailed onboarding with the BPS workflow, agent types, agent definitions, procedures for registering buyers, suppliers, and supplier payment preferences. Content generated as a PDF and uploaded to a wiki page.
 
 ## DraftKings
 DraftKings writing samples include:
