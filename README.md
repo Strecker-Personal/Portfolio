@@ -8,12 +8,7 @@ Epsilon writing samples include:
 - [Agility Loyalty Program Management Guide](Epsilon_Harmony_Sample(1).pdf) &#8212; Provides detailed instructions for managing the Agility Loyalty Program. Content delivered as a wiki page.
 - [Epsilon Documentation Department Style Guide](https://drive.google.com/file/d/1FeMPjL1z-oiTpEq8nv1HK_nToAff6kEn/view?usp=drive_link) &#8212; A reference tool to be used to ensure technical information is presented in a standard communication style. Content generated as a PDF and uploaded to a wiki page.
 
-| Document | Type | Description |
-|---------------|----------------------|----------------------|
-| [DREAMmail 5.1 Omniture Integration Technical Guide](https://drive.google.com/file/d/1rOoGg9Y8iw18kJnkE9lIr3HX2ue8ltIV/view?usp=drive_link) | PDF | Provides an overview and detailed procedures for integrating DREAMmail 5.1 with Omniture SiteCatalyst. |
-| [Epsilon Harmony Conductor QSR](https://drive.google.com/file/d/1lE85G7AlADmfVj4scFF-LwcPbqfScx8t/view?usp=drive_link) | PDF |Provides detailed information and procedures for creating and managing Harmony Conductor campaigns. |
-| [Agility Loyalty Program Management Guide](Epsilon_Harmony_Sample(1).pdf) | Wiki | Provides detailed instructions for managing the Agility Loyalty Program. |
-| [Epsilon Documentation Department Style Guide](https://drive.google.com/file/d/1FeMPjL1z-oiTpEq8nv1HK_nToAff6kEn/view?usp=drive_link) | PDF | A reference tool to be used to ensure technical information is presented in a standard communication style. | 
+---
 
 ## Mastercard
 Mastercard writing samples include:
