@@ -15,7 +15,6 @@ Epsilon writing samples include:
        <td>[DREAMmail 5.1 Omniture Integration Technical Guide](https://drive.google.com/file/d/1rOoGg9Y8iw18kJnkE9lIr3HX2ue8ltIV/view?usp=drive_link)</td>
        <td>PDF</td>
        <td>Provides an overview and detailed procedures for integrating DREAMmail 5.1 with Omniture SiteCatalyst.</td>
-       
      </tr>
 </table>
 
