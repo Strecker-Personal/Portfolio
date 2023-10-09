@@ -17,8 +17,8 @@ Mastercard writing samples include:
 
 ## Epsilon
 Epsilon writing samples include:
-- [DREAMmail 5.1 Omniture Integration Technical Guide](https://drive.google.com/file/d/1rOoGg9Y8iw18kJnkE9lIr3HX2ue8ltIV/view?usp=drive_link) &#8212; Provides an overview and detailed procedures for integrating DREAMmail 5.1 with Omniture SiteCatalyst. PDF uploaded to the wiki page for user to download.
+- [DREAMmail 5.1 Omniture Integration Technical Guide](https://drive.google.com/file/d/1rOoGg9Y8iw18kJnkE9lIr3HX2ue8ltIV/view?usp=drive_link) &#8212; Provides an overview and detailed procedures for integrating DREAMmail 5.1 with Omniture SiteCatalyst. PDF uploaded to the wiki page for the user to download.
 - [Epsilon Harmony Conductor QSR](https://drive.google.com/file/d/1lE85G7AlADmfVj4scFF-LwcPbqfScx8t/view?usp=drive_link) &#8212; Provides detailed information and procedures for creating and managing Harmony Conductor campaigns.
 - [Agility Loyalty Program Management Guide](Epsilon_Harmony_Sample(1).pdf) &#8212; Provides detailed instructions for managing the Agility Loyalty Program. Content delivered as a wiki page.
-- [Epsilon Documentation Department Style Guide](https://drive.google.com/file/d/1FeMPjL1z-oiTpEq8nv1HK_nToAff6kEn/view?usp=drive_link) &#8212; A reference tool to be used to ensure technical information is presented in a standard communication style. Content generated as a PDF and uploaded to a wiki page.
+- [Epsilon Documentation Department Style Guide](https://drive.google.com/file/d/1FeMPjL1z-oiTpEq8nv1HK_nToAff6kEn/view?usp=drive_link) &#8212; A reference tool to ensure technical information is presented in a standard communication style. Content generated as a PDF and uploaded to a wiki page.
 
