@@ -3,7 +3,7 @@ This page provides Strecker's writing samples.
 
 ## DraftKings
 DraftKings writing samples include:
-- [Quick Deposit Integration Guide](https://drive.google.com/file/d/1Wc_rI_M2pHkvQNHGKdWNbbLQOFDGYQKk/view?usp=drive_link) &#8212; Provides an overview of the Quick Deposit v2 integration process. This page is intended for vertical-based teams looking to understand and integrate the new Quick Deposit component into their product elements. Content generated as a PDF and uploaded to a wiki page.
+- [Quick Deposit Integration Guide](https://drive.google.com/file/d/1Wc_rI_M2pHkvQNHGKdWNbbLQOFDGYQKk/view?usp=drive_link) &#8212; Provides an overview of the Quick Deposit v2 integration process. This page is for vertical-based teams looking to understand and integrate the new Quick Deposit component into their product elements. Content generated as a PDF and uploaded to a wiki page.
 - [Legal Prioritization Process](https://drive.google.com/file/d/1ORSnR0mXlJ5QljuQw3P_nsVpk6u3Ckr2/view?usp=drive_link) &#8212; Provides an overview of the legal prioritization process that uses a priority score to rank each ticket. Content generated as a PDF and uploaded to a wiki page.
 - [Campaign Tool User Documentation](https://drive.google.com/file/d/133PMLxrY7iZ1lNaOFifLjtXVd7Q3yZKd/view?usp=drive_link) &#8212; Provides detailed information on using the DraftKing campaign tool app. Content generated as a PDF and uploaded to a wiki page.
 - [Manage Basic Promotions](https://drive.google.com/file/d/1BpO-5ltNFwqTpmLnW7S3pLmU41gw-aF1/view?usp=drive_link) &#8212; Provides detailed information on creating, editing, cloning, and archiving a basic promotion. Content generated as a PDF and uploaded to a wiki page.
